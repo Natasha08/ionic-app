@@ -1,2 +1,2 @@
 # ionic-app
-basic app to integrate with django/stripe
+basic app to integrate with django
